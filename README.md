@@ -22,16 +22,12 @@ El trabajo se desarrolló utilizando Python y la biblioteca Scikit-learn, median
 
 ## Estructura del repositorio
 
-```text
 Analisis-Clustering/
 │
-├── notebooks/
-│   └── Analisis_Clustering.ipynb
-│
-├── figures/
+├── Analisis_Clustering.ipynb
+│   
 │
 └── README.md
-```
 
 ## Librerías principales
 
