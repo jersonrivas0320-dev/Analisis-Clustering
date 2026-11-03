@@ -20,15 +20,6 @@ El trabajo se desarrolló utilizando Python y la biblioteca Scikit-learn, median
 - **Make Moons:** 500 observaciones y 2 variables.
 - **Iris:** 150 observaciones y 4 variables.
 
-## Estructura del repositorio
-
-Analisis-Clustering/
-│
-├── Analisis_Clustering.ipynb
-│   
-│
-└── README.md
-
 ## Librerías principales
 
 - Python
